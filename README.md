@@ -1,11 +1,11 @@
-# google-adwords
+# google-adwords-reports
 
-<!--[![NPM](https://nodei.co/npm/google-adwords.png?downloads=true)](https://nodei.co/npm/google-adwords/)
-[![NPM](https://nodei.co/npm-dl/google-adwords.png?months=3&height=2)](https://nodei.co/npm/google-adwords/)
+<!--[![NPM](https://nodei.co/npm/google-adwords-reports.png?downloads=true)](https://nodei.co/npm/google-adwords-reports/)
+[![NPM](https://nodei.co/npm-dl/google-adwords-reports.png?months=3&height=2)](https://nodei.co/npm/google-adwords-reports/)
 
-[![Dependency Status](https://david-dm.org/therebelrobot/google-adwords.svg)](https://david-dm.org/therebelrobot/google-adwords)
-[![Code Climate](https://codeclimate.com/github/therebelrobot/google-adwords/badges/gpa.svg)](https://codeclimate.com/github/therebelrobot/google-adwords)
-[![Test Coverage](https://codeclimate.com/github/therebelrobot/google-adwords/badges/coverage.svg)](https://codeclimate.com/github/therebelrobot/google-adwords)-->
+[![Dependency Status](https://david-dm.org/therebelrobot/google-adwords-reports.svg)](https://david-dm.org/therebelrobot/google-adwords-reports)
+[![Code Climate](https://codeclimate.com/github/therebelrobot/google-adwords-reports/badges/gpa.svg)](https://codeclimate.com/github/therebelrobot/google-adwords-reports)
+[![Test Coverage](https://codeclimate.com/github/therebelrobot/google-adwords-reports/badges/coverage.svg)](https://codeclimate.com/github/therebelrobot/google-adwords-reports)-->
 
 A Node.js driver for Google Adwords Reporting API (v201603)
 
@@ -26,16 +26,16 @@ A Node.js driver for Google Adwords Reporting API (v201603)
 
 ## Install
 
-To install google-adwords, run
+To install google-adwords-reports, run
 
 ```bash
-npm install google-adwords
+npm install google-adwords-reports
 ```
 
 then include in your file the following:
 
 ```javascript
-var ga = require('google-adwords');
+var ga = require('google-adwords-reports');
 ```
 
 ## API

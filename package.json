@@ -1,7 +1,7 @@
 {
   "name": "google-adwords",
-  "version": "1.1.2",
-  "description": "A Node.js driver for Google Adwords Reporting API (v201409)",
+  "version": "1.1.3",
+  "description": "A Node.js driver for Google Adwords Reporting API (v201603)",
   "main": "lib/googleadwords.js",
   "scripts": {
     "pretest": "./node_modules/standard/bin/cmd.js",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/therebelrobot/google-adwords.git"
+    "url": "https://github.com/mcolomer/google-adwords.git"
   },
   "keywords": [
     "google",
     "adwords"
   ],
-  "author": "Trent Oswald <trentoswald@therebelrobot.com>",
+  "author": "Miquel Colomer <mcolomer@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/therebelrobot/google-adwords/issues"
+    "url": "https://github.com/mcolomer/google-adwords/issues"
   },
-  "homepage": "https://github.com/therebelrobot/google-adwords",
+  "homepage": "https://github.com/mcolomer/google-adwords",
   "dependencies": {
     "adwords-auth": "0.0.10",
     "bluebird": "^2.9.12",

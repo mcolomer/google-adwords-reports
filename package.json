@@ -1,5 +1,5 @@
 {
-  "name": "google-adwords",
+  "name": "google-adwords-reports",
   "version": "1.1.3",
   "description": "A Node.js driver for Google Adwords Reporting API (v201603)",
   "main": "lib/googleadwords.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mcolomer/google-adwords.git"
+    "url": "https://github.com/mcolomer/google-adwords-reports.git"
   },
   "keywords": [
     "google",
@@ -19,9 +19,9 @@
   "author": "Miquel Colomer <mcolomer@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mcolomer/google-adwords/issues"
+    "url": "https://github.com/mcolomer/google-adwords-reports/issues"
   },
-  "homepage": "https://github.com/mcolomer/google-adwords",
+  "homepage": "https://github.com/mcolomer/google-adwords-reports",
   "dependencies": {
     "adwords-auth": "0.0.10",
     "bluebird": "^2.9.12",

@@ -164,7 +164,8 @@ You can also access the reports by passing an object into `.awql()` as such:
 var options = {
   select: ['Date', 'Clicks'],
   from: 'ACCOUNT_PERFORMANCE_REPORT',
-  during: ['20120101', '20150125']
+  during: ['20120101', '20150125'],
+  includeZeroImpressions: false // defaults to true
 }
 ga.awql(options).send().then(function(results) {
   expect(results).to.be.an('object');

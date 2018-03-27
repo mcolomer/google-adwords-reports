@@ -260,6 +260,13 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep A Ch
 
 ### Unreleased
 
+### v1.1.2 - 2018-03-27
+#### Added
+
+- Replace deprecated google adwords api v201708 with v201802
+
+### v1.1.0 - 2015-03-13
+
 ### v1.1.1 - 2015-03-13
 #### Added
 
